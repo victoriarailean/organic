@@ -9,6 +9,7 @@ class Prodcategory extends Model
     //
     protected $table = 'prodcategorys';
     public $timestamps = false;
+    
    
 }
 
